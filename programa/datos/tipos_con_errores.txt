@@ -1,0 +1,6 @@
+Estandar,tipo repetido que debe omitirse,2
+Deluxe,sin maximo de huespedes
+Premium,maximo no numerico,abc
+Economica,habitación económica y sencilla,2
+
+estandar,repetido con otras mayusculas,4

@@ -1,0 +1,4 @@
+Estandar,una habitación con cama queen y aire acondicionado,3
+Familiar,dos camas matrimoniales, televisor y aire acondicionado,5
+Suite,suite con sala de estar y vista al mar,2
+Sencilla,una cama individual y ventilador,1
